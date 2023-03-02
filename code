@@ -46,6 +46,10 @@ const YourApp = () => {
        onPress={() => Alert.alert('Thanks to join!')}
       />
           
+       <Text
+      style={{color:'black',  margin:30, fontSize: 9, fontWeight: "100", fontFamily:'serif',textShadowColor:'#f0f' }}
+      >&copy; 2023 Aseel Ziyad
+      </Text>
       
     </View>
     
